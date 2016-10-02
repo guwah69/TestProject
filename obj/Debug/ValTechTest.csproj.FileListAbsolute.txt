@@ -1,0 +1,13 @@
+C:\ValTech\ValTechProject\ValTechTest\bin\Debug\ValTechTest.dll
+C:\ValTech\ValTechProject\ValTechTest\bin\Debug\ValTechTest.pdb
+C:\ValTech\ValTechProject\ValTechTest\bin\Debug\ValTechProject.dll
+C:\ValTech\ValTechProject\ValTechTest\bin\Debug\WebDriver.dll
+C:\ValTech\ValTechProject\ValTechTest\bin\Debug\WebDriver.Support.dll
+C:\ValTech\ValTechProject\ValTechTest\bin\Debug\ValTechProject.pdb
+C:\ValTech\ValTechProject\ValTechTest\bin\Debug\WebDriver.xml
+C:\ValTech\ValTechProject\ValTechTest\bin\Debug\WebDriver.Support.xml
+C:\ValTech\ValTechProject\ValTechTest\obj\Debug\ValTechTest.csprojResolveAssemblyReference.cache
+C:\ValTech\ValTechProject\ValTechTest\obj\Debug\ValTechTest.dll
+C:\ValTech\ValTechProject\ValTechTest\obj\Debug\ValTechTest.pdb
+C:\ValTech\ValTechProject\ValTechTest\bin\Debug\ValTechTest.dll.config
+C:\ValTech\ValTechProject\ValTechTest\bin\Debug\TechTalk.SpecFlow.dll
